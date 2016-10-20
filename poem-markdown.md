@@ -10,7 +10,7 @@ Blue is cold
 Green   
 Indigo   
 Recycle!   
-Unicorn   
+Unicorn, fine unicorns  
 Yellow   
 Red is hot   
 These are the colors of the rainbow.   
